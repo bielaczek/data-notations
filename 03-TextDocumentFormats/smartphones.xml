@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Samsung" model="Galaxy A42 5g" releaseYear="2020">
+        <specs>
+            <screenSize unit="inch">6.6</screenSize>
+            <batteryCapacity unit="mAh">5000</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">48</camera>
+        </specs>
+        <price currency="USD">150</price>
+    </smartphone>
 </smartphones>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        jbielecki12@gmail.com
+    </sender>
+    <recipient>
+        jbielecki16@gmail.com
+    </recipient>
+    <subject>
+        no topic
+    </subject>
+    <message-body>
+        czesc
+    </message-body>
+</email>

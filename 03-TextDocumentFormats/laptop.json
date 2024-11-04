@@ -1,0 +1,12 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": [
+        "touchpad",
+        "webcam"
+    ],
+    "cost": 279.99,
+    "storage": "512 GB, M.2, PCIe NVMe, SSD"
+}
