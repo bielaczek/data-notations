@@ -1,0 +1,27 @@
+thead {
+    background-color: darkgreen;
+}
+
+td {
+    padding: 5px;
+}
+
+td:hover {
+    background-color: aquamarine;
+}
+
+table {
+    border: 5px dashed black;
+}
+
+#landmark {
+    width:25%
+}
+
+#significance {
+    width: 40%;
+}
+
+body {
+    color: darkblue;
+}
